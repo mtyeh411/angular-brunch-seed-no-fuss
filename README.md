@@ -29,7 +29,7 @@ Features:
 
 or if you have **Brunch** installed, create a directory for your app, `cd` into it and run:
 
-`brunch new gh:ocombe/angular-brunch-seed-no-fuss`
+`brunch new gh:mtyeh411/angular-brunch-seed-no-fuss`
 
 ### Running the app during development
 
