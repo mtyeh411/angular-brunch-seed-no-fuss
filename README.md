@@ -11,7 +11,7 @@ Features:
 * CSS3 ready with [Autoprefixer](https://github.com/postcss/autoprefixer): write CSS3 and vendor prefixes are added when needed
 * [karma](http://karma-runner.github.io) integration for unit & e2e tests
 * Bootstrap 3
-* Compatible with IE9+ (if you need a version compatible with IE8, get the release 0.4.1)
+* Compatible with IE10+
 * Be consistent, with the [.editorconfig file](http://editorconfig.org/) your coding style will be the same across IDEs & editors (adapt it to your coding preferences)
 
 ## Alternate Versions
